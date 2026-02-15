@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @CriticalDMG
-- 👀 I’m interested in prigramming mostly but mainly i study economics
-- 🌱 I’m currently learning economics and management
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ivona!
+- 👀 I'm majoring in informatics at Sofia University "St. Kliment Ohridski" 
+- 🌱 Got skills in: C/C++, and a little bit of Assembly
+- 🌟 Interested in expanding knowledge in C/C++ and Embedded systems
 
 <!---
 CriticalDMG/CriticalDMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
